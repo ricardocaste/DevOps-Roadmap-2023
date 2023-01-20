@@ -147,8 +147,6 @@ If you like or are using this project to learn or start your solution, please gi
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592), Gene Kim, Kevin Behr, George Spafford <sup>Book</sup>
 - [Site Reliability Engineering](https://sre.google/books/), Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy <sup>Book</sup>
 
-![DevOps books](DevOpsBooks.jpg)
-
 ## Wrap Up
 
 If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
